@@ -6,7 +6,7 @@ locale.setlocale(locale.LC_ALL, 'en_US.utf8') # Set locale to en_US to enable cu
 
 ############################################# Define functions #############################################
 
-# Prompts user to press enter continue
+# Prompts user to press enter to continue
 def press_enter_continue():
     while True:
         user_input = input("Press Enter to continue or 'q' to quit... ")
