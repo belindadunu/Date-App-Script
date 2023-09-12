@@ -139,13 +139,13 @@ time.sleep(2)
 
 # Call the print_menu functiom
 print_menu(menu, "drinks")
-time.sleep(3)
+time.sleep(2)
 print_menu(menu, "appetizers")
-time.sleep(3)
+time.sleep(2)
 print_menu(menu, "entrees")
-time.sleep(3)
+time.sleep(2)
 print_menu(menu, "desserts")
-time.sleep(3)
+time.sleep(2)
 
 # Take orders
 order, final_budget = take_order(menu, budget)
