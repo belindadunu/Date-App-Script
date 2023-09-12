@@ -97,7 +97,7 @@ menu = {
         4: {"name": "water", "price": 0, "description": "still water"}
     },
     "appetizers": {
-        5: {"name": "housemade, hand-Rolled savory croissant", "price": 9, "description": "sarawak peppercorns, cultured butter, fiore di sale"},
+        5: {"name": "housemade, hand-rolled savory croissant", "price": 9, "description": "sarawak peppercorns, cultured butter, fiore di sale"},
         6: {"name": "caprese salad", "price": 9, "description": "fresh tomatoes, mozzarella cheese, basil, and balsamic glaze"},
         7: {"name": "spinach and artichoke dip", "price": 8, "description": "creamy dip with spinach, artichokes, and melted cheese, served with tortilla chips"},
         8: {"name": "bruschetta", "price": 7, "description": "toasted baguette slices topped with fresh tomatoes, garlic, basil, and olive oil"}
