@@ -2,9 +2,7 @@
 
 # Date Simulator App
 
-The Love Calculator is a simple date simulator app that allows a user to choose menu items from a simulated restaurant within a defined budget. It then determines if there is a chance for a second date based on the remaining budget after ordering.
-
-[https://github.com/belindadunu/Date-App-Script](/app.py)
+The Love Calculator is a simple [date simulator app](https://github.com/belindadunu/Date-App-Script/blob/main/app.py) that allows a user to choose menu items from a simulated restaurant within a defined budget. It then determines if there is a chance for a second date based on the remaining budget after ordering.
 
 ## Features
 
