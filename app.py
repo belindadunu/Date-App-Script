@@ -1,7 +1,7 @@
 # Create a date.py script that is a date simulator and does the following:
 
 import time
-import locale # Based on https://docs.python.org/3/library/locale.html
+import locale
 locale.setlocale(locale.LC_ALL, 'en_US.utf8') # Set locale to en_US to enable currency formatting in U.S. currency ($)
 
 ############################################# Define functions #############################################
